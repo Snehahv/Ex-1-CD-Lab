@@ -3,8 +3,7 @@
 ### NAME :SNEHA HV
 ### REG NO : 212222040157
 
-# AIM :
-## To write a C program to implement a symbol table.
+# AIM :To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
