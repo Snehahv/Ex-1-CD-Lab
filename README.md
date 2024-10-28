@@ -1,9 +1,7 @@
+
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
-
-### NAME :SNEHA HV
-### REG NO : 212222040157
-
-# AIM :To write a C program to implement a symbol table.
+# AIM :
+To write a C program to implement a symbol table.
 # ALGORITHM
 1.	Start the program.
 2.	Get the input from the user with the terminating symbol ‘$’.
@@ -13,7 +11,7 @@
 6.	The steps are repeated till ‘$’ is reached.
 7.	To reach a variable, enter the variable to be searched and symbol table has been checked for corresponding variable, the variable along with its address is displayed as result.
 8.	Stop the program. 
-# PROGRAM
+# PROGRAM:
 ```
 #include<stdio.h>
 #include<ctype.h>
@@ -65,8 +63,8 @@ int main() {
     return 0;
 }
 ```
-# OUTPUT
-![image](https://github.com/user-attachments/assets/e6877aa7-742d-498d-a76a-b494224fb6c5)
+# OUTPUT:
+![cd1](https://github.com/user-attachments/assets/c6ae080c-02ac-4e5d-8efc-256aef4c702b)
 
-# RESULT
-### The program to implement a symbol table is executed and the output is verified.
+# RESULT:
+The program to implement a symbol table is executed and the output is verified.
